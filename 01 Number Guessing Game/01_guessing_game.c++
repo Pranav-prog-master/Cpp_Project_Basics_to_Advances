@@ -35,6 +35,5 @@ int main() {
 
     cout << "\nBye Bye, Thanks for Playing." << endl;
     cout << "Developed by: KGCoding" << endl;
-
     return 0;
 }
