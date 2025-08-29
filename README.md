@@ -1,4 +1,4 @@
-# 🧠 Sharp Creativity Puzzle: The Guessing Game 🎮
+# 🧠 DAY-01 :-  Sharp Creativity Puzzle: The Guessing Game 🎮
 
 Welcome to a classic game Feeling bored? Need a quick mental reset? Welcome to the Guessing Game, a simple yet powerful puzzle designed to sharpen your creativity and bring a moment of calm focus to your day. This isn't just code; it's a challenge to your intuition.
 
