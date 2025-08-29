@@ -54,10 +54,10 @@ This repository contains the source code for a simple command-line calculator. T
 ---
 
 ## ✨ Features
-User-Friendly Interface: A simple menu-driven system for easy operation.
-Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
-Error Handling: Includes basic checks, such as for division by zero.
-Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
+- User-Friendly Interface: A simple menu-driven system for easy operation.
+- Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+- Error Handling: Includes basic checks, such as for division by zero.
+- Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
 
 ---
 
@@ -87,10 +87,10 @@ This repository contains a simple yet functional digital clock that displays the
 ---
 
 ## ✨ Features
-Real-Time Display: Shows the current time, updating every second.
-Date Display: Shows the current date, including the day of the week.
-Customizable Time Format: Users can choose between 12-hour (AM/PM) and 24-hour formats at the start.
-Cross-Platform: Designed to run on both Windows and UNIX-like systems (Linux, macOS).
+- Real-Time Display: Shows the current time, updating every second.
+- Date Display: Shows the current date, including the day of the week.
+- Customizable Time Format: Users can choose between 12-hour (AM/PM) and 24-hour formats at the start.
+- Cross-Platform: Designed to run on both Windows and UNIX-like systems (Linux, macOS).
 
 ---
 
