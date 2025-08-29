@@ -79,8 +79,8 @@ For C: g++ 02_Simple_Calculator.cpp -o clock && ./clock
 ---
 
 
-Digital Clock Console Application
-A classic and elegant digital clock implemented in the console. This project demonstrates the fundamentals of time handling and continuous updates in three different programming languages: C, C++, and Java.
+# 🧠 DAY-03 :- Digital Clock Console Application
+A classic and elegant digital clock implemented in the console. This project demonstrates the fundamentals of time handling and continuous updates in three different programming languages in C. 
 
 ---
 
