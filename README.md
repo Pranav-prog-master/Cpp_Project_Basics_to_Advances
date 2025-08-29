@@ -32,7 +32,7 @@ This project is written in C and can be compiled with any standard C compiler li
 3.  **Navigate to the directory** where you saved the file.
 4.  **Compile the code** using the following command:
     ```bash
-    g++ guessing_game.cpp -o guessing_game
+    g++ guessing_game.c -o guessing_game
     ```
 5.  **Run the executable**:
     -   On Windows: `.\guessing_game.exe`
@@ -74,3 +74,43 @@ The C++ version introduces object-oriented principles. The logic is encapsulated
 
 ## 🔧 How to Run
 Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For C: g++ 02_Simple_Calculator.cpp -o clock && ./clock
+
+---
+
+
+Digital Clock Console Application
+A classic and elegant digital clock implemented in the console. This project demonstrates the fundamentals of time handling and continuous updates in three different programming languages: C, C++, and Java.
+
+---
+
+## 🌟 About This Project
+This repository contains a simple yet functional digital clock that displays the current time and date directly in your terminal. The clock updates every second, providing a live feed of the current time. It's an excellent project for understanding time libraries, loops, and cross-platform console manipulation.
+
+---
+
+## ✨ Features
+Real-Time Display: Shows the current time, updating every second.
+
+Date Display: Shows the current date, including the day of the week.
+
+Customizable Time Format: Users can choose between 12-hour (AM/PM) and 24-hour formats at the start.
+
+Cross-Platform: Designed to run on both Windows and UNIX-like systems (Linux, macOS).
+
+---
+
+## 🚀 Versions
+This project is available in three different programming languages, each showcasing a unique approach:
+
+C Version
+A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
+
+---
+
+## 🔧 How to Run
+For each version, you will need the appropriate compiler (GCC for C/C++, JDK for Java). You can compile and run the source file from your terminal.
+For C++: g++ 03_DigitalClock.cpp -o clock && ./clock
+
+
+---
