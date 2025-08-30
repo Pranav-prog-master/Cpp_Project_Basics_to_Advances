@@ -112,7 +112,7 @@ For C++: g++ 03_DigitalClock.cpp -o clock && ./clock
 
 # 🧠 DAY-04: Terminal Progress Bar
 
-A simple yet visually satisfying terminal-based progress bar implemented in **Java**. This project demonstrates how to update console output dynamically and is perfect for learning about loops, formatting, and time delays across languages.
+A simple yet visually satisfying terminal-based progress bar implemented in **Cpp**. This project demonstrates how to update console output dynamically and is perfect for learning about loops, formatting, and time delays across languages.
 
 ---
 
@@ -133,7 +133,7 @@ This repository contains source code for a basic progress bar that updates in re
 
 ## 🚀 Versions
 
-Java Version : Implements the progress bar using `System.out.printf()` and `Thread.sleep()` for smooth console updates.
+C++ Version : Leverages `iostream`, `thread`, and `chrono` for clean, modern C++ implementation with string manipulation.
 
 ---
 
