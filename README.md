@@ -64,7 +64,7 @@ This repository contains the source code for a simple command-line calculator. T
 ## 🚀 Versions
 This project is available in three different programming languages:
 
-C++ Version : The C++ version introduces object-oriented principles. The logic is encapsulated within a Calculator class, and it uses C++ streams (iostream) for input and output, showcasing a more modern approach to the same problem.
+**C++ Version** : The C++ version introduces object-oriented principles. The logic is encapsulated within a Calculator class, and it uses C++ streams (iostream) for input and output, showcasing a more modern approach to the same problem.
 
 ---
 
@@ -96,7 +96,7 @@ This repository contains a simple yet functional digital clock that displays the
 ## 🚀 Versions
 This project is available in three different programming languages, each showcasing a unique approach:
 
-C++ Version : A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
+**C++ Version** : A lightweight and efficient implementation using a procedural approach. It relies on the standard <time.h> library for all time-related functions and uses conditional compilation for cross-platform compatibility.
 
 ---
 
@@ -131,7 +131,7 @@ This repository contains source code for a basic progress bar that updates in re
 
 ## 🚀 Versions
 
-C++ Version : Leverages `iostream`, `thread`, and `chrono` for clean, modern C++ implementation with string manipulation.
+**C++ Version** : Leverages `iostream`, `thread`, and `chrono` for clean, modern C++ implementation with string manipulation.
 
 ---
 
