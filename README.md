@@ -172,14 +172,14 @@ This project is available in three different programming languages, each showcas
 ## 🔧 How to Run
 
 Refer to the source code files for each language. Below are sample compilation and execution commands:
-For Cpp : g++ user_management.c -o user_management && ./user_management
+For Cpp : g++ 05_user_management.c -o user_management && ./user_management
 
 
 ---
 
 
 # 🧠 DAY-06 :- Console Bank Management System
-A comprehensive, console-based banking application built to demonstrate fundamental and advanced programming concepts across Java. This project simulates the core functionalities of a bank account management system, focusing on data persistence, user interaction, and robust error handling.
+A comprehensive, console-based banking application built to demonstrate fundamental and advanced programming concepts across Cpp. This project simulates the core functionalities of a bank account management system, focusing on data persistence, user interaction, and robust error handling.
 
 ---
 
@@ -207,7 +207,37 @@ This project is available in three powerful languages, each showcasing a differe
 ## 🔧 How to Run
 
 Please refer to the source code file for your language of choice for specific compilation and execution instructions.
-For Cpp : g++ Bank_Management_System.c -o Bank_Management_System && ./Bank_Management_System
+For Cpp : g++ 06_Bank_Management_System.c -o Bank_Management_System && ./Bank_Management_System
 
 
 ---
+
+
+# 🧠 DAY-05 :- Sudoku Solver
+A classic Sudoku puzzle solver built to demonstrate the power of the backtracking algorithm. This project, available in C++, takes a hardcoded 9x9 Sudoku puzzle with empty cells (represented by 0) and efficiently finds the solution.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a console-based Sudoku solver. The goal is to showcase a practical implementation of a recursive, depth-first search algorithm to solve a complex logic puzzle. It's an excellent project for demonstrating an understanding of algorithms, recursion, and multi-dimensional arrays.
+
+---
+
+## ✨ Features
+- Backtracking Algorithm: Implements the highly efficient backtracking algorithm to explore all possible solutions without brute-forcing every combination.
+- Clear Console Output: The program prints both the initial unsolved puzzle and the final solved version in a clean, easy-to-read grid format.
+- Validation Logic: Includes robust logic to check if a move is valid according to the rules of Sudoku (no repeated numbers in any row, column, or 3x3 subgrid).
+- Solvability Check: Determines whether a given puzzle is solvable and reports back if no solution exists.
+
+---
+
+## 🚀 Versions
+This project is available in three languages, each highlighting a different approach to solving the same problem:
+
+**C++ Version** - The C++ version refactors the logic into a modern, object-oriented structure. The puzzle board and solving algorithm are encapsulated within a SudokuSolver class, demonstrating strong OOP principles.
+
+---
+
+## 🔧 How to Run
+Please refer to the source code file for your language of choice for specific compilation and execution instructions. The puzzle is hardcoded into the source for simplicity.
+For Cpp : g++ 07_Sudoku_Solver.c -o 07_Sudoku_Solver && ./07_Sudoku_Solver
