@@ -213,7 +213,7 @@ For Cpp : g++ 06_Bank_Management_System.c -o Bank_Management_System && ./Bank_Ma
 ---
 
 
-# 🧠 DAY-05 :- Sudoku Solver
+# 🧠 DAY-07 :- Sudoku Solver
 A classic Sudoku puzzle solver built to demonstrate the power of the backtracking algorithm. This project, available in C++, takes a hardcoded 9x9 Sudoku puzzle with empty cells (represented by 0) and efficiently finds the solution.
 
 ---
