@@ -299,8 +299,7 @@ This repository contains the source code for a console-based laundry management 
 ## 🚀 Versions
 This project is available in three languages, each offering a unique perspective on building the same application:
 
-C++ Version
-The C++ version refactors the logic into a modern, object-oriented structure. The user data and operations are encapsulated within Registration and Login classes, and it uses C++ file streams (fstream) for more robust data handling.
+**C++ Version** - The C++ version refactors the logic into a modern, object-oriented structure. The user data and operations are encapsulated within Registration and Login classes, and it uses C++ file streams (fstream) for more robust data handling.
 
 ---
 
