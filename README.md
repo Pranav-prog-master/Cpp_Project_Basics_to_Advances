@@ -272,7 +272,41 @@ This project is available in three languages, each offering a unique perspective
 
 ## 🔧 How to Run
 Please refer to the source code file for your language of choice for specific compilation and execution instructions. 
-For Cpp : g++ tic-tac-toe.c -o tic-tac-toe && ./tic-tac-toe
+For Cpp : g++ tic-tac-toe.cpp -o tic-tac-toe && ./tic-tac-toe
+
+
+---
+
+
+# 🧠 DAY-09 :- Laundry Management System
+A straightforward and efficient console-based application designed to manage laundry service registrations and logins. This project, available in C, C++, and Java, showcases how to handle user data, perform file operations, and structure a practical application.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a console-based laundry management system. The primary goal is to provide a simple interface for users (students or laundry staff) to register for the service and log in to their accounts. It's an excellent project for demonstrating skills in data persistence, user input handling, and both procedural and object-oriented programming.
+
+---
+
+## ✨ Features
+- User Registration: Allows new users to create an account by providing their details, which are then saved to a file.
+- User Login: Authenticates existing users by checking their credentials against the saved records.
+- Data Persistence: All user registration data is saved to a binary file (laundry_book.dat), ensuring that information is retained between sessions.
+- Clear Console Interface: A simple and intuitive menu-driven interface for easy navigation and use.
+
+---
+
+## 🚀 Versions
+This project is available in three languages, each offering a unique perspective on building the same application:
+
+C++ Version
+The C++ version refactors the logic into a modern, object-oriented structure. The user data and operations are encapsulated within Registration and Login classes, and it uses C++ file streams (fstream) for more robust data handling.
+
+---
+
+## 🔧 How to Run
+Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For Cpp : g++ Laundry-Management-System.cpp -o Laundry-Management-System && ./Laundry-Management-System
 
 
 ---
