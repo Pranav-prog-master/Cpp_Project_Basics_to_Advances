@@ -309,3 +309,35 @@ For Cpp : g++ Laundry-Management-System.cpp -o Laundry-Management-System && ./La
 
 
 ---
+
+
+# 🧠 DAY-10 :- Smart Cab Allocation System
+A comprehensive console-based application that simulates a smart cab booking and management system. This project, available in C++, demonstrates how to build a multi-user system with different roles (Admin and User), handle data persistence, and implement core business logic.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a smart cab allocation system. The application allows an administrator to add and manage cabs in the system, and it provides a platform for users to register, log in, and eventually book rides. It's an excellent project for showcasing skills in system design, data structures, and creating interactive, multi-functional applications.
+
+---
+
+## ✨ Features
+- Dual User Roles: Separate interfaces and functionalities for Admins (to manage cabs) and Users (to book rides).
+- Secure Authentication: A robust login and registration system for both admins and users. User passwords are automatically hashed for security.0
+- Cab Management: Admins can add new cabs to the system, view the status of all cabs, and check their live locations.
+- User Management: Users can create an account and log in to access the system's features.
+- Clear Console Interface: A simple and intuitive menu-driven interface for easy navigation and use.
+
+---
+
+## 🚀 Versions
+This project is available in three languages, each offering a unique perspective on building the same system:
+
+**C++ Version** - The C++ version refactors the logic into a modern, object-oriented structure. The system's components are encapsulated within classes like Cab, Admin, User, and UserManager. It leverages the C++ Standard Library, including vector and unordered_map, for efficient data handling.
+
+## 🔧 How to Run
+Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For Cpp : g++ Smart_Cab_Allocation_System.cpp -o Smart_Cab_Allocation_System && ./Smart_Cab_Allocation_System
+
+
+---
